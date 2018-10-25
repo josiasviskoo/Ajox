@@ -5,7 +5,7 @@ Para utilizar siga o arquivo principal com as adequações do <a href="">Link</a
 
 # ajox.js
 
-<code>
+'''
 $(document).ready(function(){
 	$('.ajox').click(function() {
 		
@@ -18,11 +18,11 @@ $(document).ready(function(){
 		
 	});
 });
-</code>
+'''
 
 
 #arquivo.html
 
-<code>
+'''
 <a href="javascript:void(0);" class="ajox" ajox-href="elemento_externo.html" ajox-div="areadebusca"><i class="fas fa-search"></i></a>
-</code>
+'''
