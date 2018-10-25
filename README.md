@@ -23,4 +23,6 @@ $(document).ready(function(){
 
 #arquivo.html
 
+<code>
 <a href="javascript:void(0);" class="ajox" ajox-href="elemento_externo.html" ajox-div="areadebusca"><i class="fas fa-search"></i></a>
+</code>
